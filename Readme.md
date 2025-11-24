@@ -42,7 +42,6 @@ Hierarchy-Model/
 
 ```bash
 git clone https://github.com/poudelef/Hierarchy-Model.git
-cd Hierarchy-Model
 pip install -r requirements.txt
 streamlit run app.py
 ```
