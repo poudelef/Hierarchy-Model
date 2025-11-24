@@ -35,3 +35,14 @@ Hierarchy-Model/
 │   ├── H1_best.keras
     ├── H2_best.keras   # Fin_
 ```
+
+---
+
+## How to Run
+
+```bash
+git clone https://github.com/poudelef/Hierarchy-Model.git
+cd Hierarchy-Model
+pip install -r requirements.txt
+streamlit run app.py
+```
