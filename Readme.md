@@ -2,8 +2,8 @@
 
 ### How to run
 
-git clone https://github.com/poudelef/Hierarchy-Model/edit/main/
+git clone https://github.com/poudelef/Hierarchy-Model.git
 
 python install -r requirements.txt
 
-
+streamlit run app.py
