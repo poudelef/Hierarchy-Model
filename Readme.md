@@ -24,12 +24,6 @@ The dataset is split into three parts:
 
 Each split maintains class imbalance similar to the original distribution across the five classes: Apnea, Hypopnea, MSA, CSA, and OSA.
 
-Example visualization of the dataset distribution:
-
-![Dataset distribution](/mnt/data/Screenshot 2025-11-24 123335.png)
-
-> Note: When using this README in your GitHub repo, replace the image path with the correct relative path to your saved figure (for example, `images/dataset_distribution.png`).
-
 ---
 
 ## Project Structure
@@ -38,5 +32,6 @@ Example visualization of the dataset distribution:
 Hierarchy-Model/
 ├── app.py                 # Streamlit application entry point
 ├── models/
-│   ├── H1_best.keras      # Fin_
+│   ├── H1_best.keras
+    ├── H2_best.keras   # Fin_
 ```
